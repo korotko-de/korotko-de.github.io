@@ -1,6 +1,7 @@
 # Коротко о немецком
 Всякие короткие (не)нужности о немецком языке, которые, может быть, помогут вам в изучении немецкого
 
-https://t.me/korotko_de[Telegram]
-https://twitter.com/korotko_de[Twitter]
-https://instagram.com/korotko_de[Instagram]
+Проект в социальных сетях:
+* https://t.me/korotko_de[Telegram,role=external,window=_blank]
+* https://twitter.com/korotko_de[Twitter,role=external,window=_blank]
+* https://instagram.com/korotko_de[Instagram,role=external,window=_blank]
