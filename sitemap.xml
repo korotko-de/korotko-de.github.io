@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://korotko.de/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://korotko.de/</loc>
+</url>
+<url>
+<loc>https://korotko.de/ampel/</loc>
+<lastmod>2022-11-08T23:00:11+01:00</lastmod>
+</url>
+<url>
+<loc>https://korotko.de/anfang/</loc>
+<lastmod>2022-11-08T22:49:55+01:00</lastmod>
+</url>
+<url>
+<loc>https://korotko.de/deutsch-warum-nicht/</loc>
+<lastmod>2022-11-08T23:06:12+01:00</lastmod>
+</url>
+<url>
+<loc>https://korotko.de/kak-skazat-po-nemecki-ne-za-chto/</loc>
+<lastmod>2022-11-06T09:21:05+01:00</lastmod>
+</url>
+<url>
+<loc>https://korotko.de/komisch/</loc>
+<lastmod>2022-11-08T23:06:20+01:00</lastmod>
+</url>
+<url>
+<loc>https://korotko.de/mulenberg/</loc>
+<lastmod>2022-11-08T22:49:46+01:00</lastmod>
+</url>
+<url>
+<loc>https://korotko.de/page/2/</loc>
+</url>
+</urlset>
