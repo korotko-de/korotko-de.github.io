@@ -122,19 +122,36 @@ body {
 }
 
 a {
-  color: var(--link-color);
+  color: var(--link-color-hover);
   text-decoration: none;
   -webkit-transition: all 0.24s ease-out;
   -o-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
 }
 a:hover {
-  color: var(--link-color-hover);
+  color: var(--link-color);
 }
 a:active {
-  color: var(--link-color-hover);
+  color: var(--link-color);
 }
 a:focus {
+  outline: none;
+}
+
+a.index {
+  color: var(--link-color);
+  text-decoration: none;
+  -webkit-transition: all 0.24s ease-out;
+  -o-transition: all 0.24s ease-out;
+  transition: all 0.24s ease-out;
+}
+a.index:hover {
+  color: var(--link-color-hover);
+}
+a.index:active {
+  color: var(--link-color-hover);
+}
+a.index:focus {
   outline: none;
 }
 
@@ -1662,7 +1679,7 @@ textarea {
 }
 .post__entry a:not(.btn):not([type=button]):not([type=submit]):not(button):not(.post__toc a):not(.gallery__item a) {
   color: var(--link-color-hover);
-  text-decoration: underline;
+  /* text-decoration: underline; */
   text-decoration-thickness: 1px;
   text-underline-offset: 0.2em;
   -webkit-text-decoration-skip: ink;
