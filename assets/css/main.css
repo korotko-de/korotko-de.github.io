@@ -122,36 +122,19 @@ body {
 }
 
 a {
-  color: var(--link-color-hover);
+  color: var(--link-color);
   text-decoration: none;
   -webkit-transition: all 0.24s ease-out;
   -o-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
 }
 a:hover {
-  color: var(--link-color);
+  color: var(--link-color-hover);
 }
 a:active {
-  color: var(--link-color);
+  color: var(--link-color-hover);
 }
 a:focus {
-  outline: none;
-}
-
-a.index {
-  color: var(--link-color);
-  text-decoration: none;
-  -webkit-transition: all 0.24s ease-out;
-  -o-transition: all 0.24s ease-out;
-  transition: all 0.24s ease-out;
-}
-a.index:hover {
-  color: var(--link-color-hover);
-}
-a.index:active {
-  color: var(--link-color-hover);
-}
-a.index:focus {
   outline: none;
 }
 
