@@ -732,9 +732,8 @@ textarea {
   }
 }
 .top.is-visible {
-  background: var(--section-bg);
-  -webkit-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
-          box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
+  /* TODO check me */
+  background: var(--hero-collapsed-bg);
   opacity: 1;
   position: fixed;
   -webkit-transform: translate(0, 0);
@@ -2142,7 +2141,7 @@ textarea {
 
 /* Footer ------------------------ */
 .footer {
-  background: var(--section-bg);
+  background: var(--footer-bg);
   font-family: var(--body-font);
   overflow: hidden;
   padding: calc(3.4rem + 1vw) var(--page-margin);
