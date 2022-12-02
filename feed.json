@@ -60,7 +60,7 @@
             "url": "https://korotko.de/zitate-1/",
             "title": "Немецкие цитаты #1",
             "summary": "Сегодня новая короткая рубрика - #цитаты на немецком языке Der Herbst ist der Frühling des Winters. Henri de Toulouse-Lautrec Осень - это весна зимы. Анри де Тулуз-Лотрек 🔸 der Herbst - осень 🔸 der Frühling - весна 🔸 der Winters - зима",
-            "content_html": "<p><strong>Сегодня новая короткая рубрика - </strong><a href=\"#INTERNAL_LINK#/tag/null\"><strong>#цитаты</strong></a><strong> на немецком языке</strong></p>\n<p><em>Der Herbst ist der Frühling des Winters.</em> <br><strong>Henri de Toulouse-Lautrec</strong></p>\n<p><em>Осень - это весна зимы.</em> <br><strong>Анри де Тулуз-Лотрек</strong></p>\n<p class=\"msg--highlight  msg--info msg  \"><span class=\"emoji\">🔸</span> <strong>der Herbst</strong> - осень <br><span class=\"emoji\">🔸</span> <strong>der Frühling</strong> - весна <br><span class=\"emoji\">🔸</span> <strong>der Winters</strong> - зима</p>",
+            "content_html": "<p><strong>Сегодня новая короткая рубрика - </strong><a href=\"#INTERNAL_LINK#/tag/null\"><strong>#цитаты</strong></a><strong> на немецком языке</strong></p>\n<p><em>Der Herbst ist der Frühling des Winters.</em> <br><strong>Henri de Toulouse-Lautrec</strong></p>\n<p><em>Осень - это весна зимы.</em> <br><strong>Анри де Тулуз-Лотрек</strong></p>\n<p class=\"msg--highlight msg \"><span class=\"emoji\">🔸</span> <strong>der Herbst</strong> - осень <br><span class=\"emoji\">🔸</span> <strong>der Frühling</strong> - весна <br><span class=\"emoji\">🔸</span> <strong>der Winters</strong> - зима</p>",
             "author": {
                 "name": "Тим А."
             },
@@ -68,7 +68,7 @@
                    "цитаты"
             ],
             "date_published": "2021-11-02T22:16:00+01:00",
-            "date_modified": "2022-12-02T22:17:20+01:00"
+            "date_modified": "2022-12-02T22:34:25+01:00"
         },
         {
             "id": "https://korotko.de/anschlag-2/",

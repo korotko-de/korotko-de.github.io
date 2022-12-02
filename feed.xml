@@ -3,7 +3,7 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2022-12-02T22:17:20+01:00</updated>
+    <updated>2022-12-02T22:34:25+01:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
@@ -94,7 +94,7 @@
         <id>https://korotko.de/zitate-1/</id>
             <category term="цитаты"/>
 
-        <updated>2022-12-02T22:17:20+01:00</updated>
+        <updated>2022-12-02T22:34:25+01:00</updated>
             <summary>
                 <![CDATA[
                     Сегодня новая короткая рубрика - #цитаты на немецком языке Der Herbst ist der Frühling des Winters. Henri de Toulouse-Lautrec Осень - это весна зимы. Анри де Тулуз-Лотрек 🔸 der Herbst - осень 🔸 der Frühling - весна 🔸 der Winters - зима
@@ -105,7 +105,7 @@
                 <p><strong>Сегодня новая короткая рубрика - </strong><a href="#INTERNAL_LINK#/tag/null"><strong>#цитаты</strong></a><strong> на немецком языке</strong></p>
 <p><em>Der Herbst ist der Frühling des Winters.</em> <br><strong>Henri de Toulouse-Lautrec</strong></p>
 <p><em>Осень - это весна зимы.</em> <br><strong>Анри де Тулуз-Лотрек</strong></p>
-<p class="msg--highlight  msg--info msg  "><span class="emoji">🔸</span> <strong>der Herbst</strong> - осень <br><span class="emoji">🔸</span> <strong>der Frühling</strong> - весна <br><span class="emoji">🔸</span> <strong>der Winters</strong> - зима</p>
+<p class="msg--highlight msg "><span class="emoji">🔸</span> <strong>der Herbst</strong> - осень <br><span class="emoji">🔸</span> <strong>der Frühling</strong> - весна <br><span class="emoji">🔸</span> <strong>der Winters</strong> - зима</p>
             ]]>
         </content>
     </entry>
