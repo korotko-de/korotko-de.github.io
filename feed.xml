@@ -3,7 +3,7 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2023-01-19T23:05:30+01:00</updated>
+    <updated>2023-01-19T23:11:23+01:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
@@ -42,7 +42,7 @@
         <id>https://korotko.de/pristavki_imperativ/</id>
             <category term="вопросы"/>
 
-        <updated>2023-01-19T23:04:13+01:00</updated>
+        <updated>2023-01-19T23:11:10+01:00</updated>
             <summary>
                 <![CDATA[
                     Вопрос Отделяется ли приставка в повелительном наклонении глагола? Ответ Да, отделяется. Вот примеры: Steh auf! - Вставай! Hört auf! - Прекращайте! Machen Sie die Tür zu! - Закройте дверь! А как же быть с повелительным наклонением, выраженным инфинитивом? Повелительного наклонения (Imperativ), выраженного инфинитивом, нет. Инфинитивом&hellip;
@@ -59,7 +59,7 @@
 <p><strong>Изъявительным наклонением (Indikativ):</strong> <em>Sie räumen jetzt auf.</em></p>
 <p><strong>Будущим временем (Futur):</strong> <em>du wirst dich sofort anziehen.</em></p>
 <p><span class="emoji">🔸</span> <span class="emoji">🔸</span> <span class="emoji">🔸</span></p>
-<p>Задавайте ваши короткие #вопросы в <a href="https://t.me/korotko_de_bot" onclick="im(this)" class="mention">@korotko_de_bot</a></p>
+<p>Задавайте ваши короткие вопросы в <a href="https://t.me/korotko_de_bot" onclick="im(this)" class="mention">@korotko_de_bot</a></p>
             ]]>
         </content>
     </entry>
@@ -124,7 +124,7 @@
         <id>https://korotko.de/kak-skazat-po-nemecki-ne-za-chto/</id>
             <category term="вопросы"/>
 
-        <updated>2023-01-19T23:04:26+01:00</updated>
+        <updated>2023-01-19T23:11:23+01:00</updated>
             <summary>
                 <![CDATA[
                     Вопрос: Как сказать на немецком "не за что" , " всегда пожалуйста " в ответ на спасибо? Ответ: Nichts zu danken - не за что (или дословно, не за что благодарить). Immer wieder gerne - всегда пожалуйста (или дословно, всегда снова с удовольствием). 🔸 🔸&hellip;
@@ -135,7 +135,7 @@
                 <p><strong>Вопрос:</strong> <br>Как сказать на немецком "не за что" , " всегда пожалуйста " в ответ на спасибо?</p>
 <p><strong>Ответ:</strong> <br><strong>Nichts zu danken</strong> - не за что (или дословно, <em>не за что благодарить</em>). <br><strong>Immer wieder gerne</strong> - всегда пожалуйста (или дословно, <em>всегда снова с удовольствием</em>).</p>
 <p><span class="emoji">🔸</span> <span class="emoji">🔸</span> <span class="emoji">🔸</span></p>
-<p>Задавайте ваши короткие #вопросы в <a href="https://t.me/korotko_de_bot" onclick="im(this)" class="mention">@korotko_de_bot</a></p>
+<p>Задавайте ваши короткие вопросы в <a href="https://t.me/korotko_de_bot" onclick="im(this)" class="mention">@korotko_de_bot</a></p>
             ]]>
         </content>
     </entry>
