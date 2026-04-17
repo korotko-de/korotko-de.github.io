@@ -3,7 +3,7 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2026-04-16T14:16:38+02:00</updated>
+    <updated>2026-04-17T15:21:55+02:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
@@ -238,27 +238,23 @@
         </content>
     </entry>
     <entry>
-        <title>Немецкие цитаты #3</title>
+        <title>Ушной червяк ...</title>
         <author>
             <name>Тим А.</name>
         </author>
-        <link href="https://korotko.de/zitate-3/"/>
-        <id>https://korotko.de/zitate-3/</id>
-            <category term="цитаты"/>
+        <link href="https://korotko.de/ohrwurm/"/>
+        <id>https://korotko.de/ohrwurm/</id>
+            <category term="(не)нужности"/>
 
-        <updated>2021-11-18T21:13:00+01:00</updated>
+        <updated>2021-11-29T15:20:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    Mut brüllt nicht immer nur. Mut kann auch die leise Stimme am Ende des Tages sein, die sagt: Morgen versuche ich es nochmal. Mary Anne Radmacher Смелость необязательно всегда рычит. Иногда смелость бывает тихим голосом в конце дня, который говорит: завтра я попробую ещё раз. Мэри Энн Радмахер В оригинале: Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, «I will try again tomorrow». Mary Anne Radmacher 🔸 der Mut - храбрость, смелость 🔸 brüllen / brüllte / gebrüllt - рычать, реветь 🔸 leise - тихий, негромкий 🔸 die Stimme / die Stimmen - голос 🔸 versuchen / versuchte / versucht - попробовать, попытаться
+                    или der Ohrwurm. Звучит, как какой-то паразит. Ну и в какой-то степени паразитом и является, но не простым, а музыкальным. И, уверен, каждый из нас хоть раз страдал этой "болезнью". Речь идёт о навязчивой песенке или мелодии, которая ну просто не хочет выходить из головы. Знакомо вам такое? Зы. Кстати, есть и насекомое с таким же названием. По-русски мы называем его уховёртка.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://korotko.de/media/posts/30/zitate3.jpg" alt="" width="400" height="400" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://korotko.de/media/posts/30/responsive/zitate3-xs.jpg 300w ,https://korotko.de/media/posts/30/responsive/zitate3-sm.jpg 480w ,https://korotko.de/media/posts/30/responsive/zitate3-md.jpg 768w ,https://korotko.de/media/posts/30/responsive/zitate3-lg.jpg 1024w"></figure>
-<p><em>Mut brüllt nicht immer nur. Mut kann auch die leise Stimme am Ende des Tages sein, die sagt: Morgen versuche ich es nochmal.</em> <br><strong>Mary Anne Radmacher</strong></p>
-<p><em>Смелость необязательно всегда рычит. Иногда смелость бывает тихим голосом в конце дня, который говорит: завтра я попробую ещё раз.</em> <br><strong>Мэри Энн Радмахер</strong></p>
-<p><strong>В оригинале:</strong> <br><em>Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, «I will try again tomorrow».<br></em><strong>Mary Anne Radmacher</strong></p>
-<p class="msg--highlight msg "><span class="emoji">🔸</span> <strong>der Mut</strong> - храбрость, смелость <br><span class="emoji">🔸</span> <strong>brüllen / brüllte / gebrüllt</strong> - рычать, реветь <br><span class="emoji">🔸</span> <strong>leise</strong> - тихий, негромкий <br><span class="emoji">🔸</span> <strong>die Stimme / die Stimmen</strong> - голос <br><span class="emoji">🔸</span> <strong>versuchen / versuchte / versucht</strong> - попробовать, попытаться</p>
+                <p><br>или <strong data-entity-type="MessageEntityBold">der Ohrwurm</strong>.<br><br>Звучит, как какой-то паразит. Ну и в какой-то степени паразитом и является, но не простым, а музыкальным. И, уверен, каждый из нас хоть раз страдал этой "болезнью".<br><br>Речь идёт о навязчивой песенке или мелодии, которая ну просто не хочет выходить из головы. Знакомо вам такое?<br><br><strong data-entity-type="MessageEntityBold">Зы. </strong><br>Кстати, есть и насекомое с таким же названием. По-русски мы называем его <strong data-entity-type="MessageEntityBold">уховёртка</strong>.</p>
             ]]>
         </content>
     </entry>
