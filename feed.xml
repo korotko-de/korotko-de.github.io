@@ -3,7 +3,7 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2026-04-17T15:21:55+02:00</updated>
+    <updated>2026-04-17T15:29:50+02:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
@@ -254,7 +254,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><br>или <strong data-entity-type="MessageEntityBold">der Ohrwurm</strong>.<br><br>Звучит, как какой-то паразит. Ну и в какой-то степени паразитом и является, но не простым, а музыкальным. И, уверен, каждый из нас хоть раз страдал этой "болезнью".<br><br>Речь идёт о навязчивой песенке или мелодии, которая ну просто не хочет выходить из головы. Знакомо вам такое?<br><br><strong data-entity-type="MessageEntityBold">Зы. </strong><br>Кстати, есть и насекомое с таким же названием. По-русски мы называем его <strong data-entity-type="MessageEntityBold">уховёртка</strong>.</p>
+                <p>или <strong data-entity-type="MessageEntityBold">der Ohrwurm</strong>.<br><br>Звучит, как какой-то паразит. Ну и в какой-то степени паразитом и является, но не простым, а музыкальным. И, уверен, каждый из нас хоть раз страдал этой "болезнью".<br><br>Речь идёт о навязчивой песенке или мелодии, которая ну просто не хочет выходить из головы. Знакомо вам такое?<br><br><strong data-entity-type="MessageEntityBold">Зы. </strong><br>Кстати, есть и насекомое с таким же названием. По-русски мы называем его <strong data-entity-type="MessageEntityBold">уховёртка</strong>.</p>
             ]]>
         </content>
     </entry>
