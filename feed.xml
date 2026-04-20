@@ -3,12 +3,34 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2026-04-17T15:29:50+02:00</updated>
+    <updated>2026-04-20T12:14:01+02:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
     <id>https://korotko.de</id>
 
+    <entry>
+        <title>Männergrippe</title>
+        <author>
+            <name>Тим А.</name>
+        </author>
+        <link href="https://korotko.de/maennergrippe/"/>
+        <id>https://korotko.de/maennergrippe/</id>
+            <category term="(не)нужности"/>
+
+        <updated>2026-04-20T12:09:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ... или мужской грипп. Да, вы правильно прочитали, мужской грипп. Говорят, что мужчины чаще тяжелее переносят простуду, чем женщины. И находятся они при этом в очень критическом состояния. Могу подтвердить это вам, как мужчина :) Поэтому, чтобы описать все страдания мужской половины человечества во время простуды, немцы "изобрели" болезнь под названием Männergrippe. Как же я удивился, что оказывается есть подтверждения существования такой болезни: учёные доказали, мужчины действительно чаще тяжелее переносят простуду, чем женщины :) Берегите себя и по возможности не болейте!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://korotko.de/media/posts/37/maennergrippe.jpg" alt="" width="400" height="400" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://korotko.de/media/posts/37/responsive/maennergrippe-xs.jpg 300w ,https://korotko.de/media/posts/37/responsive/maennergrippe-sm.jpg 480w ,https://korotko.de/media/posts/37/responsive/maennergrippe-md.jpg 768w ,https://korotko.de/media/posts/37/responsive/maennergrippe-lg.jpg 1024w"></figure>
+<p><em data-entity-type="MessageEntityItalic">... или мужской грипп. Да, вы правильно прочитали, мужской грипп.</em><br><br>Говорят, что мужчины чаще тяжелее переносят простуду, чем женщины. И находятся они при этом в очень критическом состояния. Могу подтвердить это вам, как мужчина :)<br><br>Поэтому, чтобы описать все страдания мужской половины человечества во время простуды, немцы "изобрели" болезнь под названием <strong data-entity-type="MessageEntityBold">Männergrippe</strong>.<br><br>Как же я удивился, что оказывается есть подтверждения существования такой болезни: учёные доказали, мужчины действительно чаще тяжелее переносят простуду, чем женщины :)<br><br>Берегите себя и по возможности не болейте!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>R heißt Rückkehr ...</title>
         <author>
