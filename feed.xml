@@ -3,12 +3,34 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2026-04-20T12:14:01+02:00</updated>
+    <updated>2026-04-21T11:11:48+02:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
     <id>https://korotko.de</id>
 
+    <entry>
+        <title>Почему?</title>
+        <author>
+            <name>Тим А.</name>
+        </author>
+        <link href="https://korotko.de/warum/"/>
+        <id>https://korotko.de/warum/</id>
+            <category term="(не)нужности"/>
+
+        <updated>2026-04-21T09:11:30+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Думаю, многие (в детстве) на свой вопрос Почему? слышали ответ: Потому что, потому, всё кончается на у. У немцев есть что-то похожее для вопроса Warum?: Warum, warum ist die Banane krumm? Почему, почему банан кривой? А ещё часто можно услышать и шуточное продолжение: Weil niemand in den Urwald zog und die Banane grade bog! Потому что никто не поехал в джунгли и не выпрямил банан. Теперь и вы знаете, как отвечать по-немецки на вопрос Warum, если ответа у вас нет. Кстати, в передаче с мышкой объяснили, почему же бананы на самом деле кривые.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Думаю, многие (в детстве) на свой вопрос <strong data-entity-type="MessageEntityBold">Почему?</strong> слышали ответ: <br><strong data-entity-type="MessageEntityBold">Потому что, потому, всё кончается на у.</strong><br><br>У немцев есть что-то похожее для вопроса <strong data-entity-type="MessageEntityBold">Warum?</strong>:<br><strong data-entity-type="MessageEntityBold">Warum, warum ist die Banane krumm?</strong><br><em data-entity-type="MessageEntityItalic">Почему, почему банан кривой?</em><br><br>А ещё часто можно услышать и шуточное продолжение:<br><strong data-entity-type="MessageEntityBold">Weil niemand in den Urwald zog und die Banane grade bog!</strong><br><em data-entity-type="MessageEntityItalic">Потому что никто не поехал в джунгли и не выпрямил банан.</em><br><br>Теперь и вы знаете, как отвечать по-немецки на вопрос <strong data-entity-type="MessageEntityBold">Warum</strong>, если ответа у вас нет.<br><br>Кстати, в <a href="https://korotko.de/sendung-mit-der-maus/" title="https://korotko.de/sendung-mit-der-maus/">передаче с мышкой</a> объяснили, почему же бананы на самом деле кривые.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/PczRoi0JNc8?si=aVMlWrW9CyrqRtIp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Männergrippe</title>
         <author>
