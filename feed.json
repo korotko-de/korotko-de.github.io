@@ -101,6 +101,21 @@
             "date_modified": "2023-01-19T23:11:23+01:00"
         },
         {
+            "id": "https://korotko.de/handschuhe/",
+            "url": "https://korotko.de/handschuhe/",
+            "title": "Варежки и перчатки",
+            "summary": "На днях к нам посреди весны вернулась зима. И пришлось вновь надевать варежки и перчатки. Замечательный повод рассказать вам про то, как эти оба слова переводятся на немецкий язык. Перчатки - это die Handschuhe (в ед.ч. der Handschuh), т.е. дословно туфли для рук. А варежки - это die Fäustlinge (в ед.ч. der Fäustling) или die Fausthandschuhe (в ед.ч. der Fausthandschuh). Надеюсь, вам эти зимние (не)нужности пригодятся.",
+            "content_html": "<p>На днях к нам посреди весны вернулась зима. И пришлось вновь надевать <em data-entity-type=\"MessageEntityItalic\">варежки</em> и <em data-entity-type=\"MessageEntityItalic\">перчатки</em>.<br><br>Замечательный повод рассказать вам про то, как эти оба слова переводятся на немецкий язык.<br><br>Перчатки - это <strong data-entity-type=\"MessageEntityBold\">die Handschuhe</strong> (в ед.ч. <strong data-entity-type=\"MessageEntityBold\">der Handschuh</strong>), т.е. дословно <em data-entity-type=\"MessageEntityItalic\">туфли для рук</em>.<br><br>А варежки - это <strong data-entity-type=\"MessageEntityBold\">die Fäustlinge</strong> (в ед.ч. <strong data-entity-type=\"MessageEntityBold\">der Fäustling</strong>) или <strong data-entity-type=\"MessageEntityBold\">die Fausthandschuhe</strong> (в ед.ч. <strong data-entity-type=\"MessageEntityBold\">der Fausthandschuh</strong>).<br><br>Надеюсь, вам эти зимние (не)нужности пригодятся.</p>",
+            "author": {
+                "name": "Тим А."
+            },
+            "tags": [
+                   "(не)нужности"
+            ],
+            "date_published": "2022-04-04T09:39:00+02:00",
+            "date_modified": "2026-04-29T09:40:23+02:00"
+        },
+        {
             "id": "https://korotko.de/warum/",
             "url": "https://korotko.de/warum/",
             "title": "Почему?",

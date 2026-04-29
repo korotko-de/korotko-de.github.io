@@ -3,7 +3,7 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2026-04-29T09:34:40+02:00</updated>
+    <updated>2026-04-29T09:40:23+02:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
@@ -157,6 +157,27 @@
 <p><strong>Ответ:</strong> <br><strong>Nichts zu danken</strong> - не за что (или дословно, <em>не за что благодарить</em>). <br><strong>Immer wieder gerne</strong> - всегда пожалуйста (или дословно, <em>всегда снова с удовольствием</em>).</p>
 <p><span class="emoji">🔸</span> <span class="emoji">🔸</span> <span class="emoji">🔸</span></p>
 <p>Задавайте ваши короткие вопросы в <a href="https://t.me/korotko_de_bot" onclick="im(this)" class="mention">@korotko_de_bot</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Варежки и перчатки</title>
+        <author>
+            <name>Тим А.</name>
+        </author>
+        <link href="https://korotko.de/handschuhe/"/>
+        <id>https://korotko.de/handschuhe/</id>
+            <category term="(не)нужности"/>
+
+        <updated>2026-04-29T09:40:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                    На днях к нам посреди весны вернулась зима. И пришлось вновь надевать варежки и перчатки. Замечательный повод рассказать вам про то, как эти оба слова переводятся на немецкий язык. Перчатки - это die Handschuhe (в ед.ч. der Handschuh), т.е. дословно туфли для рук. А варежки - это die Fäustlinge (в ед.ч. der Fäustling) или die Fausthandschuhe (в ед.ч. der Fausthandschuh). Надеюсь, вам эти зимние (не)нужности пригодятся.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>На днях к нам посреди весны вернулась зима. И пришлось вновь надевать <em data-entity-type="MessageEntityItalic">варежки</em> и <em data-entity-type="MessageEntityItalic">перчатки</em>.<br><br>Замечательный повод рассказать вам про то, как эти оба слова переводятся на немецкий язык.<br><br>Перчатки - это <strong data-entity-type="MessageEntityBold">die Handschuhe</strong> (в ед.ч. <strong data-entity-type="MessageEntityBold">der Handschuh</strong>), т.е. дословно <em data-entity-type="MessageEntityItalic">туфли для рук</em>.<br><br>А варежки - это <strong data-entity-type="MessageEntityBold">die Fäustlinge</strong> (в ед.ч. <strong data-entity-type="MessageEntityBold">der Fäustling</strong>) или <strong data-entity-type="MessageEntityBold">die Fausthandschuhe</strong> (в ед.ч. <strong data-entity-type="MessageEntityBold">der Fausthandschuh</strong>).<br><br>Надеюсь, вам эти зимние (не)нужности пригодятся.</p>
             ]]>
         </content>
     </entry>
