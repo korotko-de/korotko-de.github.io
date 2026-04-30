@@ -3,7 +3,7 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2026-04-29T09:40:23+02:00</updated>
+    <updated>2026-04-30T10:55:53+02:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
@@ -157,6 +157,28 @@
 <p><strong>Ответ:</strong> <br><strong>Nichts zu danken</strong> - не за что (или дословно, <em>не за что благодарить</em>). <br><strong>Immer wieder gerne</strong> - всегда пожалуйста (или дословно, <em>всегда снова с удовольствием</em>).</p>
 <p><span class="emoji">🔸</span> <span class="emoji">🔸</span> <span class="emoji">🔸</span></p>
 <p>Задавайте ваши короткие вопросы в <a href="https://t.me/korotko_de_bot" onclick="im(this)" class="mention">@korotko_de_bot</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Glückscent</title>
+        <author>
+            <name>Тим А.</name>
+        </author>
+        <link href="https://korotko.de/glueckscent/"/>
+        <id>https://korotko.de/glueckscent/</id>
+            <category term="(не)нужности"/>
+
+        <updated>2026-04-30T10:55:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Как-то нашёл в стиральной машинке на кэмпинге в Италии одноцентовую монетку. И вспомнил, что моя мама всегда говорила: «Нельзя подбирать мелкие монеты на улице. Злые люди специально их выкидывают вместе с плохой энергией». Несколько другое отношение у немцев к найденным одноцентовым монеткам. Немцы верят, что они приносят удачу и благосостояние. Отсюда и название Glückscent - цент удачи. И конечно же, до введения евро это был Glückspfennig.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://korotko.de/media/posts/42/glueckscent.jpg" alt="Glückscent" width="573" height="400" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://korotko.de/media/posts/42/responsive/glueckscent-xs.jpg 300w ,https://korotko.de/media/posts/42/responsive/glueckscent-sm.jpg 480w ,https://korotko.de/media/posts/42/responsive/glueckscent-md.jpg 768w ,https://korotko.de/media/posts/42/responsive/glueckscent-lg.jpg 1024w"></figure>
+<p>Как-то нашёл в стиральной машинке на кэмпинге в Италии одноцентовую монетку. И вспомнил, что моя мама всегда говорила: «<em data-entity-type="MessageEntityItalic">Нельзя подбирать мелкие монеты на улице. Злые люди специально их выкидывают вместе с плохой энергией</em>».<br><br>Несколько другое отношение у немцев к найденным одноцентовым монеткам. Немцы верят, что они приносят удачу и благосостояние. Отсюда и название <strong data-entity-type="MessageEntityBold">Glückscent</strong> - цент удачи.<br><br>И конечно же, до введения евро это был <strong data-entity-type="MessageEntityBold">Glückspfennig</strong>.</p>
             ]]>
         </content>
     </entry>

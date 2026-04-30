@@ -101,6 +101,21 @@
             "date_modified": "2023-01-19T23:11:23+01:00"
         },
         {
+            "id": "https://korotko.de/glueckscent/",
+            "url": "https://korotko.de/glueckscent/",
+            "title": "Glückscent",
+            "summary": "Как-то нашёл в стиральной машинке на кэмпинге в Италии одноцентовую монетку. И вспомнил, что моя мама всегда говорила: «Нельзя подбирать мелкие монеты на улице. Злые люди специально их выкидывают вместе с плохой энергией». Несколько другое отношение у немцев к найденным одноцентовым монеткам. Немцы верят, что они приносят удачу и благосостояние. Отсюда и название Glückscent - цент удачи. И конечно же, до введения евро это был Glückspfennig.",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://korotko.de/media/posts/42/glueckscent.jpg\" alt=\"Glückscent\" width=\"573\" height=\"400\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://korotko.de/media/posts/42/responsive/glueckscent-xs.jpg 300w ,https://korotko.de/media/posts/42/responsive/glueckscent-sm.jpg 480w ,https://korotko.de/media/posts/42/responsive/glueckscent-md.jpg 768w ,https://korotko.de/media/posts/42/responsive/glueckscent-lg.jpg 1024w\"></figure>\n<p>Как-то нашёл в стиральной машинке на кэмпинге в Италии одноцентовую монетку. И вспомнил, что моя мама всегда говорила: «<em data-entity-type=\"MessageEntityItalic\">Нельзя подбирать мелкие монеты на улице. Злые люди специально их выкидывают вместе с плохой энергией</em>».<br><br>Несколько другое отношение у немцев к найденным одноцентовым монеткам. Немцы верят, что они приносят удачу и благосостояние. Отсюда и название <strong data-entity-type=\"MessageEntityBold\">Glückscent</strong> - цент удачи.<br><br>И конечно же, до введения евро это был <strong data-entity-type=\"MessageEntityBold\">Glückspfennig</strong>.</p>",
+            "author": {
+                "name": "Тим А."
+            },
+            "tags": [
+                   "(не)нужности"
+            ],
+            "date_published": "2022-06-12T10:54:00+02:00",
+            "date_modified": "2026-04-30T10:55:53+02:00"
+        },
+        {
             "id": "https://korotko.de/handschuhe/",
             "url": "https://korotko.de/handschuhe/",
             "title": "Варежки и перчатки",
