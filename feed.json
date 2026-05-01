@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://korotko.de/ki-podcast/",
+            "url": "https://korotko.de/ki-podcast/",
+            "title": "Подкасты об ИИ на немецком языке",
+            "summary": "В продолжение темы искусственного интеллекта рекомендация двух подкастов на немецком. Der KI Podcast - более технический, но очень интересный подкаст, порекомендованный мне коллегами, но не прямо для нердов. Для всех, кто хочет понять, что происходит за кулисами разработки ИИ. 🎧 ARD Audiothek 🎧 Spotify 🎧 Apple Podcasts KI Verstehen - подкаст про ИИ, порекомендованный мне Spotify. В нём даются ответы на более общие темы про влияние искусственного интеллекта на нашу повседневную жизнь. 🎧 ARD Audiothek 🎧 Spotify 🎧 Apple Podcasts Не буду давать больше описания, лучше послушать самим и заодно потренировать понимание на слух.",
+            "content_html": "<p>В продолжение темы <a href=\"https://korotko.de/r-heisst-rueckkehr/\">искусственного интеллекта</a> <a href=\"https://korotko.de/tags/rekomendacii/\">рекомендация</a> двух подкастов на немецком.<br><br><strong data-entity-type=\"MessageEntityBold\">Der KI Podcast</strong> - более технический, но очень интересный подкаст, порекомендованный мне коллегами, но не прямо для нердов. Для всех, кто хочет понять, что происходит за кулисами разработки ИИ.<br>🎧 <a href=\"https://www.ardaudiothek.de/sendung/der-ki-podcast/urn:ard:show:65505255c703e51e/\" title=\"https://www.ardaudiothek.de/sendung/der-ki-podcast/urn:ard:show:65505255c703e51e/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-entity-link\" dir=\"auto\" data-entity-type=\"MessageEntityTextUrl\">ARD Audiothek</a><br>🎧 <a href=\"https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk\" title=\"https://open.spotify.com/show/7IYjMXCK7KUrNJyVCLUEjk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-entity-link\" dir=\"auto\" data-entity-type=\"MessageEntityTextUrl\">Spotify</a><br>🎧 <a href=\"https://podcasts.apple.com/de/podcast/der-ki-podcast/id1698961192\" title=\"https://podcasts.apple.com/de/podcast/der-ki-podcast/id1698961192\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-entity-link\" dir=\"auto\" data-entity-type=\"MessageEntityTextUrl\">Apple Podcasts</a><br><br><strong data-entity-type=\"MessageEntityBold\">KI Verstehen</strong> - подкаст про ИИ, порекомендованный мне <em data-entity-type=\"MessageEntityItalic\">Spotify</em>. В нём даются ответы на более общие темы про влияние искусственного интеллекта на нашу повседневную жизнь.<br>🎧 <a href=\"https://www.ardaudiothek.de/sendung/ki-verstehen/urn:ard:show:8adf3d8efa9be5d0/\" title=\"https://www.ardaudiothek.de/sendung/ki-verstehen/urn:ard:show:8adf3d8efa9be5d0/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-entity-link\" dir=\"auto\" data-entity-type=\"MessageEntityTextUrl\">ARD Audiothek</a><br>🎧 <a href=\"https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO\" title=\"https://open.spotify.com/show/0rktSeF3DOjOyk2f0VPFwO\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-entity-link\" dir=\"auto\" data-entity-type=\"MessageEntityTextUrl\">Spotify</a><br>🎧 <a href=\"https://podcasts.apple.com/de/podcast/ki-verstehen/id1697851853\" title=\"https://podcasts.apple.com/de/podcast/ki-verstehen/id1697851853\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-entity-link\" dir=\"auto\" data-entity-type=\"MessageEntityTextUrl\">Apple Podcasts</a><br><br>Не буду давать больше описания, лучше послушать самим и заодно потренировать понимание на слух.</p>",
+            "author": {
+                "name": "Тим А."
+            },
+            "tags": [
+                   "рекомендация"
+            ],
+            "date_published": "2026-02-16T22:39:00+01:00",
+            "date_modified": "2026-05-01T22:40:29+02:00"
+        },
+        {
             "id": "https://korotko.de/r-heisst-rueckkehr/",
             "url": "https://korotko.de/r-heisst-rueckkehr/",
             "title": "R heißt Rückkehr ...",
