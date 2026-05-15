@@ -3,12 +3,33 @@
     <title>Коротко о немецком</title>
     <link href="https://korotko.de/feed.xml" rel="self" />
     <link href="https://korotko.de" />
-    <updated>2026-05-12T10:05:46+02:00</updated>
+    <updated>2026-05-15T09:07:45+02:00</updated>
     <author>
         <name>Тим А.</name>
     </author>
     <id>https://korotko.de</id>
 
+    <entry>
+        <title>KRASS</title>
+        <author>
+            <name>Тим А.</name>
+        </author>
+        <link href="https://korotko.de/krass/"/>
+        <id>https://korotko.de/krass/</id>
+            <category term="(не)нужности"/>
+
+        <updated>2026-05-15T09:07:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Готовил очередной мем для @FunnyGerman и там встретилось слово, которое многие из вас наверняка часто слышали. А может даже использовали. Повод для очередной (не)нужности. Речь об универсальном слове KRASS. Его используют везде, где нужно и не нужно. Используют немцы и не-немцы. Это и "офигеть", и "жесть", и "круто", и "кошмар". Всё зависит от ситуации и интонации! И, наверно, это одно из моих нелюбимых слов в немецком, от которого немного режет слух.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Готовил очередной мем для <a href="https://t.me/FunnyGerman">@FunnyGerman</a> и там встретилось слово, которое многие из вас наверняка часто слышали. А может даже использовали. Повод для очередной (не)нужности.<br><br>Речь об универсальном слове <strong data-entity-type="MessageEntityBold">KRASS</strong>. Его используют везде, где нужно и не нужно. Используют немцы и не-немцы. Это и <em data-entity-type="MessageEntityItalic">"офигеть"</em>, и <em data-entity-type="MessageEntityItalic">"жесть"</em>, и <em data-entity-type="MessageEntityItalic">"круто"</em>, и <em data-entity-type="MessageEntityItalic">"кошмар"</em>. Всё зависит от ситуации и интонации!<br><br>И, наверно, это одно из моих нелюбимых слов в немецком, от которого немного режет слух.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Чёрная овечка, белая ворона</title>
         <author>
